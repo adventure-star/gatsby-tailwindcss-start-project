@@ -1,4 +1,4 @@
-# Demo site for gatsby-theme-tailwindcss
+# Start project for gatsby-tailwindcss
 
 A demo site which is using the theme in a very basic configuration.
 
@@ -18,7 +18,7 @@ A demo site which is using the theme in a very basic configuration.
     npm install
     ```
 
-3. Start the demo site
+3. Start the project.
 
    ```sh
    yarn start
@@ -29,5 +29,4 @@ A demo site which is using the theme in a very basic configuration.
    ```sh
    npm start
    ```
-
-4. Play with the demo site.
+   
